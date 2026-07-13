@@ -13,7 +13,7 @@ Physical/simulated prototype based on the following device architecture:
 
 ### Physical Build
 
-![Physical prototype build on breadboard](./images/prototype-physical-build.jpeg)
+![Physical prototype build on breadboard](prototype-physical-build.jpeg)
 
 ---
 
@@ -25,8 +25,8 @@ Communication logic was implemented for InfluxDB and Grafana as the data storage
 
 ### InfluxDB — Collected Readings
 
-![InfluxDB readings, page 1](./images/influxdb-readings-1.jpeg)
+![InfluxDB readings, page 1](influxdb-readings-1.jpeg)
 
-![InfluxDB readings, page 2](./images/influxdb-readings-2.jpeg)
+![InfluxDB readings, page 2](influxdb-readings-2.jpeg)
 
-![InfluxDB readings, page 3](./images/influxdb-readings-3.jpeg)
+![InfluxDB readings, page 3](influxdb-readings-3.jpeg)
