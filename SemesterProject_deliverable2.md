@@ -16,10 +16,6 @@ Wokwi link: https://wokwi.com/projects/468251053125185537
 
 Wokwi link: https://wokwi.com/projects/468412461036174337
 
-**Physical:**
-
-- ![](image3.jpeg)
-- ![](image4.jpeg)
 
 ## c. 1 ESP32S connected to 1 DHT22 connected to 1 relay which is connected to another ESP32S connected to 1 MQ-5 [develop EITHER a physical or simulated model – interchangeable with architecture (b)]
 
