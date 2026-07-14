@@ -19,7 +19,7 @@ Physical/simulated prototype based on the following device architecture:
 
 Communication logic was implemented for InfluxDB and Grafana as the data storage and visualisation platforms (access links provided on e-learning). The dashboard includes at least 3 appropriate visualisations of the collected data.
 
-**Grafana Dashboard:** [mellowmonorail3391.grafana.net/publicdashboards/47b6cc706c9149f0a26749186f7fa6ce](https://mellowmonorail3391.grafana.net/publicdashboards/47b6cc706c9149f0a26749186f7fa6ce)
+**Grafana Dashboard:** [(https://mellowmonorail3391.grafana.net/publicdashboards/47b6cc706c9149f0a26749186f7fa6ce)](https://mellowmonorail3391.grafana.net/public-dashboards/47b6cc706c9149f0a26749186f7fa6ce)
 
 **Grafana Visuals Screenshot:**
 ![Grafana Screenshot](grafana_visuals.jpeg)
